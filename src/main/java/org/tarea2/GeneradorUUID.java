@@ -6,6 +6,6 @@ public class GeneradorUUID {
 
     public static void main(String[] args) {
         UUID uuid = UUID.randomUUID();
-        
+
     }
 }
